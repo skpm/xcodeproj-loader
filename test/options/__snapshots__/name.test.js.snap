@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Options name {Function} 1`] = `
+"/* eslint-disable */
+import png from './file.png';
+
+export default png;
+"
+`;
+
+exports[`Options name {String} 1`] = `
+"/* eslint-disable */
+import png from './file.png';
+
+export default png;
+"
+`;

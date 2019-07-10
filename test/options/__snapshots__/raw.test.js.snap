@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Options raw {String} 1`] = `
+Object {
+  "assets": Array [],
+  "source": "/* eslint-disable */
+import png from './file.png';
+
+export default png;
+",
+}
+`;

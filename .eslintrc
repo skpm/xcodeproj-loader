@@ -1,0 +1,7 @@
+{
+  "extends": "webpack",
+  "rules": {
+    "no-undefined": 0,
+    "arrow-parens": 0
+  }
+}

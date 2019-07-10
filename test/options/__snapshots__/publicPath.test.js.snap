@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Options publicPath {Function} 1`] = `
+Object {
+  "assets": Array [],
+  "source": "/* eslint-disable */
+import png from './file.png';
+
+export default png;
+",
+}
+`;
+
+exports[`Options publicPath {String} - URL 1`] = `
+Object {
+  "assets": Array [],
+  "source": "/* eslint-disable */
+import png from './file.png';
+
+export default png;
+",
+}
+`;
+
+exports[`Options publicPath {String} - Without trailing slash 1`] = `
+Object {
+  "assets": Array [],
+  "source": "/* eslint-disable */
+import png from './file.png';
+
+export default png;
+",
+}
+`;
+
+exports[`Options publicPath {String} 1`] = `
+Object {
+  "assets": Array [],
+  "source": "/* eslint-disable */
+import png from './file.png';
+
+export default png;
+",
+}
+`;
