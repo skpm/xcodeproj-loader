@@ -1,6 +1,6 @@
 {
   "name": "@skpm/xcodeproj-loader",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": "Mathieu Dutour",
   "description": "xcodeproj loader module for webpack",
   "license": "MIT",
