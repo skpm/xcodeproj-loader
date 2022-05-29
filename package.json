@@ -28,7 +28,7 @@
     "webpack": "^4.29.6"
   },
   "peerDependencies": {
-    "webpack": ">2"
+    "webpack": ">=2"
   },
   "scripts": {
     "lint": "eslint --cache lib test",
